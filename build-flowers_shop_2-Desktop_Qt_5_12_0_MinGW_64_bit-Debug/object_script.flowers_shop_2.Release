@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/database.o
+release/flowerswindow.o
+release/countrieswindow.o
+release/typeswindow.o
+release/moc_mainwindow.o
+release/moc_database.o
+release/moc_countrieswindow.o
+release/moc_FlowersWindow.o
+release/moc_typeswindow.o

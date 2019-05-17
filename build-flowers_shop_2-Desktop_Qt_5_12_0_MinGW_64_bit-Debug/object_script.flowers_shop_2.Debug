@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/database.o
+debug/flowerswindow.o
+debug/countrieswindow.o
+debug/typeswindow.o
+debug/moc_mainwindow.o
+debug/moc_database.o
+debug/moc_countrieswindow.o
+debug/moc_FlowersWindow.o
+debug/moc_typeswindow.o
